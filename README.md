@@ -13,3 +13,16 @@ Plasma Theme
 -------------
 
 Fixed icon: configure.svg
+
+Changelog: 14.12.2021
+---------------------
+
+Icons
+------
+
+Added new icons: places (32, 64)
+
+Plasma Theme
+-------------
+
+Fixed widget: checkmarks.svg
