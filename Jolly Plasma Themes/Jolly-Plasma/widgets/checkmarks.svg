@@ -16,8 +16,8 @@
   <sodipodi:namedview
      id="namedview39"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
@@ -25,15 +25,16 @@
      height="32px"
      inkscape:current-layer="svg2"
      inkscape:zoom="9.8125007"
-     inkscape:cx="19.974521"
-     inkscape:cy="5.707006"
+     inkscape:cx="31.388533"
+     inkscape:cy="13.707005"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid919"
