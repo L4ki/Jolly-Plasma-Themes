@@ -38,5 +38,5 @@ Added new icons: status (symbolic)
 Plasma Theme
 -------------
 
-Fixed widget: system.svg
+Fixed icon: system.svg
 
