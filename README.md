@@ -26,3 +26,17 @@ Plasma Theme
 -------------
 
 Fixed widget: checkmarks.svg
+
+Changelog: 21.12.2021
+---------------------
+
+Icons
+------
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+-------------
+
+Fixed widget: system.svg
+
