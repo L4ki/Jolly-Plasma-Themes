@@ -40,3 +40,15 @@ Plasma Theme
 
 Fixed icon: system.svg
 
+Changelog: 28.12.2021
+---------------------
+
+Icons
+------
+
+Added new icons: preferences (22)
+
+Plasma Theme
+-------------
+
+Fixed widget: tabbar.svg
