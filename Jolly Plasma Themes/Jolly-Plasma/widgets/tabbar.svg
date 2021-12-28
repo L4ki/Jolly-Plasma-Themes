@@ -24,20 +24,20 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="138.75"
-     inkscape:cy="212.24999"
+     inkscape:zoom="1"
+     inkscape:cx="134"
+     inkscape:cy="183.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        empopacity="0.03921569"
@@ -1170,7 +1170,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.15;fill:#5c5c88;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.66665"
-       d="m 137,1026.3622 v -5 h -5 v 0 c 0,3 2,5 5,5 v 0 z"
+       d="m 137,1026.3622 v -5 h -5 v 0 c 0,3 2,5 5,5 z"
        id="south-active-tab-bottomleft"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
