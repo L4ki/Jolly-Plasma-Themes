@@ -52,3 +52,16 @@ Plasma Theme
 -------------
 
 Fixed widget: tabbar.svg
+
+Changelog: 04.01.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: preferences (32)
+
+Plasma Theme
+-------------
+
+Fixed widget: tasks.svg
