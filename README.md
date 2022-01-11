@@ -65,3 +65,16 @@ Plasma Theme
 -------------
 
 Fixed widget: tasks.svg
+
+Changelog: 11.01.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions (symbolic, 32, 48)
+
+Plasma Theme
+-------------
+
+Fixed widget: tooltip.svg
