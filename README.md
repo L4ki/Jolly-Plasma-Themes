@@ -78,3 +78,17 @@ Plasma Theme
 -------------
 
 Fixed widget: tooltip.svg
+
+
+Changelog: 18.01.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+-------------
+
+Fixed widget: plasmoidheading.svg
