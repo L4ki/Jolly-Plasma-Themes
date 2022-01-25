@@ -92,3 +92,17 @@ Plasma Theme
 -------------
 
 Fixed widget: plasmoidheading.svg
+
+Changelog: 25.01.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: status (16)
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg
+
