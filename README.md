@@ -106,3 +106,18 @@ Plasma Theme
 
 Update widget: action-overlays.svg
 
+Changelog: 01.02.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Added: opaque, solid, translucent
+
+Update widget: slider.svg
+
