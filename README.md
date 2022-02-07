@@ -121,3 +121,18 @@ Added: opaque, solid, translucent
 
 Update widget: slider.svg
 
+Changelog: 08.02.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: preferences
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
+
+
