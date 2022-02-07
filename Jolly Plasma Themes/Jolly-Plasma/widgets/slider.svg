@@ -38,7 +38,7 @@
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -250,7 +250,7 @@
        fx="68.999855"
        fy="104.90556"
        r="6.9999065"
-       gradientTransform="matrix(1,0,0,1.0135135,-56.987999,-94.252645)"
+       gradientTransform="matrix(1,0,0,1.0135135,-28.73882,-73.645534)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -706,11 +706,10 @@
          r="8" />
     </g>
     <g
-       id="g3099"
-       transform="translate(28.249179,20.607111)">
+       id="vertical-slider-handle">
       <rect
-         x="0"
-         y="0"
+         x="28.24918"
+         y="20.607111"
          width="24"
          height="24"
          opacity="0"
@@ -719,16 +718,16 @@
       <ellipse
          style="fill:url(#radialGradient939-61);fill-opacity:1;stroke:none;stroke-width:0.643304"
          id="path3290-3"
-         cx="12.011856"
-         cy="12.070564"
+         cx="40.261036"
+         cy="32.677677"
          rx="6.9999065"
          ry="7.0945001" />
       <circle
          transform="rotate(-90)"
          id="path3292-7"
          style="opacity:0.5;fill:#61619e;fill-opacity:1;stroke:none;stroke-width:0.730297"
-         cx="-12"
-         cy="12"
+         cx="-32.607113"
+         cy="40.24918"
          r="8" />
     </g>
     <g
@@ -798,6 +797,16 @@
          cx="-12"
          cy="12"
          r="8" />
+    </g>
+    <g
+       id="hint-handle-size">
+      <circle
+         id="circle1061"
+         cx="114.08637"
+         cy="113.13026"
+         r="12"
+         fill="#ff2a2a"
+         style="opacity:0.01;fill:#489ab1;fill-opacity:1" />
     </g>
   </g>
 </svg>
