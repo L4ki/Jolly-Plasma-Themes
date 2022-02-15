@@ -141,6 +141,7 @@ Icons
 ------
 
 Added new icons: applets (256)
+
 Plasma Theme
 -------------
 
