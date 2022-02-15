@@ -134,5 +134,17 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 15.02.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: applets (256)
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg
+
 
 
