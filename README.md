@@ -1,6 +1,8 @@
 # Jolly-Plasma-Themes
 Jolly Themes For Plasma Desktop 
 
+https://store.kde.org/p/1654379
+
 Changelog: 07.12.2021
 ---------------------
 
