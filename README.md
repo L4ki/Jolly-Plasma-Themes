@@ -160,6 +160,20 @@ Plasma Theme
 
 Update icon: applications.svg
 
+Changelog: 02.03.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: devices (22)
+
+Plasma Theme
+-------------
+
+Update widget: background.svg
+
+
 
 
 
