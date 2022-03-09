@@ -176,6 +176,21 @@ Plasma Theme
 Update widget: background.svg
 
 
+Changelog: 09.03.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: devices (24)
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
+
+
+
 
 
 
