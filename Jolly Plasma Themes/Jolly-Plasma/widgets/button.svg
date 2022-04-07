@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="button.svg"
    id="svg414"
    version="1.0"
@@ -188,9 +188,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="67.702478"
-     inkscape:cx="212.0404"
-     inkscape:zoom="2.1269532"
+     inkscape:cy="86.769596"
+     inkscape:cx="221.74452"
+     inkscape:zoom="1.503983"
      showgrid="false"
      id="namedview416"
      inkscape:window-height="1013"
@@ -204,8 +204,8 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true"
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false"
      showguides="true">
     <inkscape:grid
        id="grid1331"
