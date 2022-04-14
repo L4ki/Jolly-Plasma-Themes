@@ -245,6 +245,19 @@ Plasma Theme
 Update widget: button.svg
 
 
+Changelog: 14.04.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps (16, 32, 48))
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
 
 
 
