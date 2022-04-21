@@ -25,30 +25,30 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1015"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="20.800424"
-     inkscape:cx="61.740941"
-     inkscape:zoom="4.5431766"
+     inkscape:cy="6.5369426"
+     inkscape:cx="-31.28394"
+     inkscape:zoom="3.212511"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      showguides="true"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid1394"
        type="xygrid"
-       originx="1.5e-05"
-       originy="-5.8207893" />
+       originx="-25.399984"
+       originy="-5.8207589" />
   </sodipodi:namedview>
   <metadata
      id="metadata843">
@@ -65,7 +65,7 @@
      type="text/css"
      id="current-color-scheme" />
   <g
-     transform="translate(0,-297)"
+     transform="translate(-25.4,-296.99997)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
