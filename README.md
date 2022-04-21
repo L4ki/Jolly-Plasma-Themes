@@ -258,6 +258,19 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 21.04.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: mimetypes (64)
+
+Plasma Theme
+-------------
+
+Update icon: update.svg
+
 
 
 
