@@ -272,5 +272,18 @@ Plasma Theme
 Update icon: update.svg
 
 
+Changelog: 28.04.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: mimetypes (32)
+
+Plasma Theme
+-------------
+
+Update icon: cantata.svg
+
 
 
