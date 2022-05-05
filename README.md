@@ -286,4 +286,18 @@ Plasma Theme
 Update icon: cantata.svg
 
 
+Changelog: 05.05.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: preferences (22)
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
 
