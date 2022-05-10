@@ -299,5 +299,17 @@ Plasma Theme
 
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 12.05.2022.
+---------------------
+
+Icons
+------
+
+Update icons: actions (symbolic)
+
+Plasma Theme
+-------------
+
+Update icon: audio.svg
 
 
