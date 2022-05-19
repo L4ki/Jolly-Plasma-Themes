@@ -312,4 +312,17 @@ Plasma Theme
 
 Update icon: audio.svg
 
+Changelog: 19.05.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps (22, 24)
+
+Plasma Theme
+-------------
+
+Update icons: cantata.svg, klipper.svg, kate.svg
+
 
