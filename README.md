@@ -325,4 +325,19 @@ Plasma Theme
 
 Update icons: cantata.svg, klipper.svg, kate.svg
 
+Changelog: 26.05.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: status 24
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
+Update solid widgets: panel-background.svg, tooltip.svg
+
 
