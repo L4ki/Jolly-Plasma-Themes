@@ -338,6 +338,6 @@ Plasma Theme
 
 Update widget: tooltip.svg
 
-Update solid widgets: panel-background.svg, tooltip.svg
+Update solid widget: tooltip.svg
 
 
