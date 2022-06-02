@@ -340,4 +340,18 @@ Update widget: tooltip.svg
 
 Update solid widget: tooltip.svg
 
+Changelog: 22.06.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: emblems
+
+Plasma Theme
+-------------
+
+Update widget: checkmarks.svg
+
+
 
