@@ -340,7 +340,7 @@ Update widget: tooltip.svg
 
 Update solid widget: tooltip.svg
 
-Changelog: 22.06.2022.
+Changelog: 02.06.2022.
 ---------------------
 
 Icons
