@@ -353,5 +353,18 @@ Plasma Theme
 
 Update widget: checkmarks.svg
 
+Changelog: 11.06.2022.
+---------------------
+
+Icons
+------
+
+Updates icons:  actions 16
+
+Plasma Theme
+-------------
+
+Update icons: klipper, redshift, video, preferences, keyboard, input, kdeconnect, kget
+
 
 
