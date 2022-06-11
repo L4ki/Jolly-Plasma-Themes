@@ -364,7 +364,7 @@ Updates icons:  actions 16
 Plasma Theme
 -------------
 
-Update icons: klipper, redshift, video, preferences, keyboard, input, kdeconnect, kget
+Update icons: klipper, redshift, video, preferences, keyboard, input, kdeconnect, kget, disk, drive
 
 
 
