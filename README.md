@@ -366,5 +366,25 @@ Plasma Theme
 
 Update icons: klipper, redshift, video, preferences, keyboard, input, kdeconnect, kget, disk, drive
 
+Changelog: 18.06.2022.
+---------------------
+
+Icons
+------
+
+Updates icons:  actions 22
+
+Plasma Theme
+-------------
+
+Update icons: plasmavault, plasmavault_error, utilities
+
+
+Aurorare Theme "Jolly-Blur-Aurorae"
+-------------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)
+
+
 
 
