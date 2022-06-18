@@ -380,7 +380,7 @@ Plasma Theme
 Update icons: plasmavault, plasmavault_error, utilities
 
 
-Aurorare Theme "Jolly-Blur-Aurorae"
+Aurorae Theme "Jolly-Blur-Aurorae"
 -------------------------------------
 
 Update decoration.svg (Customized for Plasma 5.25)
