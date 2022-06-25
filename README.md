@@ -385,6 +385,19 @@ Aurorae Theme "Jolly-Blur-Aurorae"
 
 Update decoration.svg (Customized for Plasma 5.25)
 
+Changelog: 25.06.2022.
+---------------------
+
+Icons
+------
+
+Updates icons:  actions 24
+
+Plasma Theme
+-------------
+
+Update icon: audio.svg
+
 
 
 
