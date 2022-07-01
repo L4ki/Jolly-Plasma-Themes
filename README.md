@@ -399,5 +399,19 @@ Plasma Theme
 Update icon: audio.svg
 
 
+Changelog: 02.07.2022.
+---------------------
+
+Icons
+------
+
+Added new icons:  actions 16
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
+
+
 
 
