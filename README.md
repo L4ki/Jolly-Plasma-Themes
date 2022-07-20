@@ -412,6 +412,20 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 20.07.2022.
+---------------------
+
+Icons
+------
+
+Added new icons:  actions 22
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg
+
+
 
 
 
