@@ -426,6 +426,25 @@ Plasma Theme
 Update widget: scrollbar.svg
 
 
+Changelog: 27.07.2022.
+---------------------
+
+Icons
+------
+
+Added new icons:  places
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
+
 
 
 
