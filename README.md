@@ -444,6 +444,19 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 11.08.2022.
+---------------------
+
+Icons
+------
+
+Added new icons:  actions 16
+
+Plasma Theme
+-------------
+
+Update icon: video-card.svg
+
 
 
 
