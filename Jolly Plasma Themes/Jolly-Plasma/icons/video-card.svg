@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    viewBox="0 0 22 22"
    sodipodi:docname="video-card.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -22,19 +22,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="20.184686"
-     inkscape:cx="16.908121"
-     inkscape:cy="13.508987"
+     inkscape:cx="16.918767"
+     inkscape:cy="13.549876"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid877" />
@@ -47,7 +49,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,6 +75,6 @@
     <path
        id="path12"
        d="m 16.951083,7.3171758 c -0.974614,0.113022 -1.723327,0.916337 -1.767578,1.896484 -6.73e-4,0.02994 -6.73e-4,0.0599 0,0.08984 h 1 c -5.23e-4,-0.507346 0.378963,-0.934686 0.882812,-0.994141 0.03807,-0.0093 0.07813,-0.00915 0.117188,-0.00586 0.507347,-5.23e-4 0.934687,0.394585 0.994141,0.898438 -0.01833,1.1797832 -0.896224,1.2367062 -1.992188,1.3222652 0,0 -0.002,1.690325 -0.002,1.792969 h 1 l 4.7e-5,-1.013672 h 0.002 0.230469 c 0.97452,-0.113022 1.72328,-0.916337 1.767531,-1.8964842 -0.01062,-0.105074 -0.0084,-0.195751 -0.01367,-0.320313 -0.113022,-0.974614 -0.916337,-1.723327 -1.896484,-1.767578 -0.106474,-9.03e-4 -0.212743,-0.0013 -0.322266,-0.002 z m -0.765625,5.9863282 v 1 h 1 v -1 z"
-       style="fill:#8686ac;fill-opacity:1;stroke:none" />
+       style="fill:#ff9955;fill-opacity:1;stroke:none" />
   </g>
 </svg>
