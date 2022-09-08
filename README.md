@@ -496,6 +496,19 @@ Plasma Theme
 
 Update icon: system.svg
 
+Changelog: 08.09.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+Plasma Theme
+-------------
+
+Added icons: distribute.svg, emblem.svg
+
 
 
 
