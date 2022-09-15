@@ -509,6 +509,19 @@ Plasma Theme
 
 Added icons: distribute.svg, emblem.svg
 
+Changelog: 15.09.2022.
+---------------------
+
+Icons
+------
+
+Update icons: places
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
 
 
 
