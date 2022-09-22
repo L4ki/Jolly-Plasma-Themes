@@ -522,6 +522,19 @@ Plasma Theme
 
 Update widget: button.svg
 
+Changelog: 22.09.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+Plasma Theme
+-------------
+
+Added new icons: audacious.svg, juk.svg
+
 
 
 
