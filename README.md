@@ -566,6 +566,19 @@ Plasma Theme
 
 Added new icons: dropbox.svg, kdf.svg
 
+Changelog: 13.10.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added new widget: radiobutton.svg
+
 
 
 
