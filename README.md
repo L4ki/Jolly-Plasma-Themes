@@ -646,6 +646,19 @@ Plasma Theme
 
 Added icons: knotes.svg, sirikali.svg
 
+Changelog: 27.11.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: krusader_user.svg, krusader_root.svg, go.svg
+
 
 
 
