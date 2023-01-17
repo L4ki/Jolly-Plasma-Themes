@@ -711,6 +711,19 @@ Plasma Theme
 
 Added icons: internet.svg, office.svg
 
+Changelog: 17.01.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: yakuake.svg, zoom.svg
+
 
 
 
