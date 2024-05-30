@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="keepabove.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -121,14 +121,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1870"
+     inkscape:window-height="994"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="45.519997"
+     inkscape:cx="36.681163"
      inkscape:cy="24.218406"
-     inkscape:window-x="0"
+     inkscape:window-x="50"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
@@ -136,12 +136,18 @@
      inkscape:bbox-nodes="true"
      inkscape:lockguides="false"
      showguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid853"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      type="text/css"
@@ -191,7 +197,7 @@
        x="1.63387"
        y="2.6338701"
        id="rect3000-9-3-5-7-1"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4e4e7e;fill-opacity:1;stroke:#000405;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffb380;fill-opacity:1;stroke:#000405;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        d="M 17.040631,16.452 A 0.48279713,0.48278855 0 0 1 16.699458,16.310379 L 11.005667,10.616694 5.3118791,16.310379 A 0.48279713,0.48278855 0 0 1 4.6295269,15.628044 L 10.6645,9.5931878 a 0.48279713,0.48278855 0 0 1 0.682338,0 l 6.034969,6.0348562 A 0.48279713,0.48278855 0 0 1 17.040631,16.452 Z"
        id="path4-3-3-27"
@@ -222,10 +228,10 @@
     <path
        d="M 17.040634,16.452 A 0.4827982,0.48278855 0 0 1 16.699456,16.310378 L 11.00565,10.616694 5.3118557,16.310378 A 0.4827982,0.48278855 0 0 1 4.6295016,15.628047 L 10.664483,9.5931893 a 0.4827982,0.48278855 0 0 1 0.682344,0 L 17.38181,15.628047 A 0.4827982,0.48278855 0 0 1 17.040634,16.452 Z"
        id="path4-3-3-6"
-       style="fill:#7171a7;fill-opacity:1;stroke-width:0.160927;enable-background:new" />
+       style="fill:#ffb380;fill-opacity:1;stroke-width:0.160927;enable-background:new" />
     <path
        d="M 17.04063,11.628 A 0.48279693,0.48278841 0 0 1 16.699455,11.486378 L 11.005663,5.7926957 5.3118823,11.486378 A 0.48279693,0.48278841 0 0 1 4.6295301,10.804043 L 10.664497,4.7691897 a 0.48279693,0.48278841 0 0 1 0.682343,0 l 6.034966,6.0348533 A 0.48279693,0.48278841 0 0 1 17.04063,11.628 Z"
        id="path4-36-5-2"
-       style="fill:#7171a7;fill-opacity:1;stroke-width:0.160927;enable-background:new" />
+       style="fill:#ffb380;fill-opacity:1;stroke-width:0.160927;enable-background:new" />
   </g>
 </svg>

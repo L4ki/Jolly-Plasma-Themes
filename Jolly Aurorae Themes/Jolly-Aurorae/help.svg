@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="help.svg"
    style="enable-background:new"
    version="1.1"
@@ -32,11 +32,11 @@
        x="1.63387"
        y="2.6338701"
        id="rect3000-9-3-3-6-5-5-2"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4e4e7e;fill-opacity:1;stroke:#000405;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d96df3;fill-opacity:1;stroke:#000405;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        d="m 10.974063,15.058433 c -0.306351,0 -0.510583,-0.204232 -0.510583,-0.51058 v -1.940205 c 0,-0.919043 0.765873,-1.378566 1.48068,-1.838087 0.81693,-0.51058 1.633854,-1.0211631 1.684919,-2.1444383 0,-1.429625 -1.174333,-2.603957 -2.60396,-2.603957 -1.4296208,0 -2.6039587,1.174332 -2.6039587,2.603957 0,0.306347 -0.204238,0.510579 -0.510584,0.510579 -0.306347,0 -0.510581,-0.204232 -0.510581,-0.510579 0,-1.991264 1.633863,-3.625121 3.6251237,-3.625121 1.991258,0 3.62512,1.633857 3.62512,3.625121 -0.102118,1.6849123 -1.27645,2.4507843 -2.144439,2.9613663 -0.612692,0.357404 -0.970107,0.612694 -0.970107,0.970101 v 1.940205 c -0.05105,0.306348 -0.30634,0.561638 -0.56163,0.561638 z m 0,1.276452 m -0.663758,0 a 0.66375433,0.66375433 0 1 0 1.327506,0 0.66375433,0.66375433 0 1 0 -1.327506,0 z"
        id="path4-5-3-7-3-6-9"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0119669;enable-background:new" />
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0119669;enable-background:new" />
   </g>
   <g
      id="inactive-center"
@@ -87,7 +87,7 @@
      inkscape:zoom="9.6590906"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1013"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -99,12 +99,18 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="grid853"
        type="xygrid"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
@@ -150,7 +156,7 @@
        x="1.63387"
        y="2.6338694"
        id="rect3000-9-3-3-6-5-5"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#9191bb;fill-opacity:1;stroke:#31314f;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#cd87de;fill-opacity:0.55000001;stroke:#31314f;stroke-width:1.26774;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        d="m 10.974063,15.058431 c -0.306351,0 -0.510583,-0.204232 -0.510583,-0.51058 v -1.940205 c 0,-0.919043 0.765873,-1.378566 1.48068,-1.838087 0.81693,-0.51058 1.633854,-1.0211626 1.684919,-2.144438 0,-1.429625 -1.174333,-2.603957 -2.60396,-2.603957 -1.429621,0 -2.603959,1.174332 -2.603959,2.603957 C 8.42116,8.931468 8.216922,9.1357 7.910576,9.1357 7.604229,9.1357 7.399995,8.931468 7.399995,8.625121 7.399995,6.633857 9.033858,5 11.025119,5 c 1.991258,0 3.62512,1.633857 3.62512,3.625121 -0.102118,1.684912 -1.27645,2.450784 -2.144439,2.961366 -0.612692,0.357404 -0.970107,0.612694 -0.970107,0.970101 v 1.940205 c -0.05105,0.306348 -0.30634,0.561638 -0.56163,0.561638 z m 0,1.276452 m -0.663758,0 a 0.66375433,0.66375433 0 1 0 1.327506,0 0.66375433,0.66375433 0 1 0 -1.327506,0 z"
        id="path4-5-3-7-3-6"
