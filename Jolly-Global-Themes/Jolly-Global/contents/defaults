@@ -17,13 +17,14 @@ Theme=Jolly-Dark-Icons
 cursorTheme=breeze_cursors
 
 [Wallpaper]
-Image=Forest SunsetNL.png
+Image=Jolly-Nebula Wallpaper
 
 [plasmarc][Theme]
 name=Jolly-Plasma
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Jolly-Aurorae
+theme=__aurorae__svg__Jolly-Aurorae-6
 
-
+[KSplash]
+Theme=Jolly-Splash-6
