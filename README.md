@@ -15,7 +15,7 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 30.05.2024
+Changelog: 06.05.2024
 ---------------------
 
 Icons
@@ -26,7 +26,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widgets: tasks.svg, panel-background.svg ...
+Update widget: slider.svg
 
 Aurorae Themes
 ---------------
@@ -36,7 +36,7 @@ Update: metadatadesktop
 GTK-Theme
 ----------
 
-Completely redesigned theme
+Update: gtkrc
 
 Added For Plasma 6:
 -------------------
