@@ -45,7 +45,7 @@ Update widget: slider.svg
 Aurorae Themes
 ---------------
 
-Update: metadatadesktop
+Update: metadata.desktop
 
 GTK-Theme
 ----------
