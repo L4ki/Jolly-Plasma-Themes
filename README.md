@@ -29,7 +29,7 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 11.07.2024
+Changelog: 18.07.2024
 ---------------------
 
 Icons
@@ -40,7 +40,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: configuration-icons.svg
+Update widget: listitem.svg
 
 Aurorae Themes
 ---------------
@@ -50,5 +50,5 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: gtk-4.0
 
