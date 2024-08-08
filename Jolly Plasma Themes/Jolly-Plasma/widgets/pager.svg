@@ -5,7 +5,7 @@
    version="1"
    id="svg31"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,18 +23,25 @@
      showgrid="false"
      inkscape:zoom="9.6535448"
      inkscape:cx="14.088089"
-     inkscape:cy="18.956767"
+     inkscape:cy="35.53099"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg31"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
-       id="grid848" />
+       id="grid848"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <path
      id="normal-left"
