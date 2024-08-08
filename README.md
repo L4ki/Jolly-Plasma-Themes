@@ -52,3 +52,7 @@ GTK-Theme
 
 Update: gtkrc
 
+SDDM Theme For Plasma 5
+------------------------
+
+Update: metadata.desktop
