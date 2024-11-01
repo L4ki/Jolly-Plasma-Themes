@@ -7,7 +7,7 @@
    sodipodi:docname="lineedit.svg"
    height="30.93376"
    width="42.667091"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:version="0.32"
    id="svg2"
    viewBox="0 0 40.000397 29.000401"
@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1013"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -32,8 +32,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2.3078919"
-     inkscape:cx="43.329586"
-     inkscape:cy="8.6659172"
+     inkscape:cx="43.546234"
+     inkscape:cy="9.099213"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -55,20 +55,22 @@
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
-       visible="true"
+       visible="false"
        enabled="true"
        empspacing="5"
        snapvisiblegridlinesonly="true"
        originx="-24.999796"
        originy="-72.999623"
        spacingx="0.99999997"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
