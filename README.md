@@ -29,18 +29,18 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 22.11.2024
+Changelog: 29.11.2024
 ---------------------
 
 Icons
 ------
 
-Added new icons: apps 48
+Update icons: apps 48
 
 Plasma Theme
 -------------
 
-Update widget: frame.svg
+Update widget: slider.svg
 
 Aurorae Themes
 ---------------
@@ -50,7 +50,7 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: hacks-dark.rc
+Update: gtkrc
 
 SDDM Theme For Plasma 5
 ------------------------
