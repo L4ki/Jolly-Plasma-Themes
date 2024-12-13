@@ -50,7 +50,7 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: hacks.rc.rc
+Update: hacks.rc
 
 SDDM Theme For Plasma 5
 ------------------------
