@@ -29,7 +29,7 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 27.12.2024
+Changelog: 03.01.2025.
 ---------------------
 
 Icons
@@ -50,7 +50,7 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: gtk-4.0
 
 SDDM Theme For Plasma 5
 ------------------------
