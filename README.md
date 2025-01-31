@@ -29,7 +29,7 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 24.01.2025.
+Changelog: 31.01.2025.
 ---------------------
 
 Icons
@@ -40,7 +40,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: arrows.svg
+Update: metadata.desktop
 
 Aurorae Themes
 ---------------
@@ -50,7 +50,7 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: main.rc
 
 SDDM Theme For Plasma 5
 ------------------------
