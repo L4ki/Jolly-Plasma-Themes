@@ -42,17 +42,9 @@ Plasma Theme
 
 Update: metadata.desktop
 
-Aurorae Themes
----------------
-
-Update: metadata.desktop
-
 GTK-Theme
 ----------
 
 Update: gtk-4.0
 
-SDDM Theme For Plasma 5
-------------------------
 
-Update: metadata.desktop
