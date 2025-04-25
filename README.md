@@ -29,13 +29,13 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 18.04.2025.
+Changelog: 25.04.2025.
 ---------------------
 
 Icons
 ------
 
-Update icons: categories 22
+Added new icons: apps 48
 
 Plasma Theme
 -------------
@@ -45,6 +45,6 @@ Update: metadata.desktop
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 
