@@ -21,6 +21,7 @@ gtk-auto-mnemonics = 1
 gtk-primary-button-warps-slider = 1
 include "main.rc"
 
+
 # App stylings
 include "apps/chrome.rc"
 include "apps/gimp.rc"
