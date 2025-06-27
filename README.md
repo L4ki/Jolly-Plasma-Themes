@@ -29,7 +29,7 @@ Screenshots:
 ![4](https://github.com/L4ki/Jolly-Plasma-Themes/assets/45247573/753ad52b-7129-48d8-baa7-d89fa397efa0)
 
 
-Changelog: 20.06.2025.
+Changelog: 27.06.2025.
 ---------------------
 
 Icons
@@ -45,6 +45,6 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: hacks-dark.rc
 
 
